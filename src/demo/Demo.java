@@ -5,6 +5,7 @@ public class Demo {
 	
 	public static void main(String[] args) {
 		while (true)
-			System.out.println(text);
+			System.out.println("¡Hola Mundo!")
+			System.out.println("¡Modificacion!");
 	}
 }
